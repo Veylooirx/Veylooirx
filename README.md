@@ -1,5 +1,7 @@
 # Hi, I'm Israel! 👋
 
+![Go Gopher](./gopher.png)
+
 ## About me
 
 I am a **Computer Systems Engineering** student and passionate software developer. I love exploring new technologies and improving my skills in languages like **Go**, **Python**, **JavaScript**, and **Flutter**. 
@@ -17,7 +19,7 @@ I enjoy working on backend and mobile development, with experience in building i
 
 ### Web and Frontend Design 🌐
 - Development with **HTML**, **CSS**, and **JavaScript** like the good old days. 
-- Creating **custom cards**, **styled tables**, and other visual components.
+- Using good frameworks like React and Vue.
 
 ## In progress🚀
 
