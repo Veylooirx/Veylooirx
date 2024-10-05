@@ -26,9 +26,7 @@ Here are some of the projects I'm working on:
 - **Mobile applications with Flutter**: Developing advanced and responsive user interfaces.
 - **Web server deployment**: Automating and configuring servers on Ubuntu for web response.
 
-## Let's talk!
-
-I'm always looking to learn more and collaborate on exciting projects. If you're interested in working with me or just want to chat about programming and technology, feel free to contact me:
+Feel free to contact me:
 
 - 📫 **Email**: veylooirx@gmail.com
 - 🌐 **LinkedIn**: 
