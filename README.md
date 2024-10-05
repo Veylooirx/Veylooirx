@@ -1,6 +1,6 @@
 # Hi, I'm Israel! 👋
 
-<img src="./go.png" alt="Go Gopher" width="200"/>
+<img src="./go.png" alt="Go Gopher" width="500"/>
 
 ## About me
 
