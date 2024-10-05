@@ -1,12 +1,11 @@
 # Hi, I'm Israel! 👋
 
-![Go Gopher](./go.png)
+<img src="./go.png" alt="Go Gopher" width="200"/>
 
 ## About me
 
 I am a **Computer Systems Engineering** student and passionate software developer. I love exploring new technologies and improving my skills in languages like **Go**, **Python**, **JavaScript**, and **Flutter**. 
-My goal is to create efficient and scalable solutions to real-world problems.
-And obviously, have fun with it along the way.
+My goal is to create efficient and scalable solutions to real-world problems—while having fun along the way.
 
 I enjoy working on backend and mobile development, with experience in building interfaces, APIs, and data management.
 
