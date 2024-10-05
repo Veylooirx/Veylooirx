@@ -1,6 +1,6 @@
 # Hi, I'm Israel! 👋
 
-![Go Gopher](./gopher.png)
+![Go Gopher](./go.png)
 
 ## About me
 
