@@ -29,5 +29,7 @@ Here are some of the projects I'm working on:
 
 Feel free to contact me:
 
-- 📫 **Email**: veylooirx@gmail.com
+- 📫 **Email**: veyloirxgx@gmail.com
 - 🌐 **LinkedIn**: 
+
+This was editing at 21:54 by me, because of the master pako. 
